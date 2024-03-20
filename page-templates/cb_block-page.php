@@ -24,6 +24,7 @@ $order = array();
 
         if ($block == 'title_block') {
             $x = get_field($block);
+            
             ?>
     <h1><?=$x['title']?></h1>
             <?php
@@ -41,7 +42,6 @@ $order = array();
             <?php
         }
 
-        
     }
 
 

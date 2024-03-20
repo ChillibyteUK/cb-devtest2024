@@ -150,7 +150,7 @@ else {
 }
 
 ?>
-<div id="wrapper-navbar" class="fixed-top p-0">
+<div id="wrapper-navbar" class="p-0">
     <div class="topnav">
         <a href="/" class="logo <?=$logo?>" aria-label="Timber Rooms Homepage"></a>
         <div class="button-container text-end d-flex align-items-center justify-content-end d-md-none">
